@@ -16,4 +16,4 @@ The solution for this is what my streamlit app all about.
 
 Are you excited to test my model? Click [here](https://share.streamlit.io/letus21500/amazon-electronic-reviews/main/amazon.py) to open it.
 
-Also, check out my [Kaggle Notebook](https://www.kaggle.com/shivamparab/amazon-electronic-reviews) and feel free to upvote it.
+
