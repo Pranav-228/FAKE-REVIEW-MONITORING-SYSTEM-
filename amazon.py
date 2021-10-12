@@ -28,7 +28,7 @@ st.markdown("<h1 style='text-align: center; color: red;'>Amazon Reviews Genuinit
 
 # load_data function is for creating a data frame and deleting the duplicates.
 def load_data(nrows):
-    data=pd.read_json('new_Electronics_5.json',lines=True,orient='columns',nrows=nrows)
+    data=pd.read_json('new Electronics_5.json',lines=True,orient='columns',nrows=nrows)
     data=data.drop_duplicates(subset=["reviewText"], keep='first', inplace=False)
     return data
 
