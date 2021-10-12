@@ -14,6 +14,5 @@ The solution for this is what my streamlit app all about.
 
 ![streamlit-amazon-2021-03-26-17-03-64](https://user-images.githubusercontent.com/31875465/112630792-1c6d6980-8e5c-11eb-8424-3fd332235771.gif)
 
-Are you excited to test my model? Click [here](https://share.streamlit.io/pranav-228/fake-review-monitoring-system-/main/amazon.py) to open it.
 
 
